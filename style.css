@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+body{
+    margin: 0;
+}
+.hero{
+    margin: 0;
+    width: 100%;
+    height: 80vh;
+    background-image: url("kepek/hero.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    padding: 20px;
+
+   }
+   .hero h1{
+       margin: 0;
+       color:black;
+       font-size:   5em;
+       font-family: 'New Rocker', cursive;
+       text-align: center;
+   }
+   table tr td img{
+       width: 100%;
+
+   }
+   table tr td{
+       width: 20vw;
+   }
+
+
+   li{
+       list-style-type: none;
+
+   }
+   ul{
+       padding: 0;
+   }
+
+   .koncertek li{
+       text-align: center;
+       margin-bottom: 30px;
+       font-family: 'New Rocker', cursive;
+       font-size: 30px;
+
+   }
+   .koncertek li b{
+       font-size: 20px;
+       
+
+   }
+   .cim{
+       font-size: 40px;
+       text-align: center;
+       color: white;
+       font-family: 'New Rocker', cursive;
+       background-color: black;
+   }
+   .termek {
+       border: solid black;
+       width: 200px;
+       height: 400px;
+       padding-top: 10px;
+   }
+   .termek img {
+       width: 100%;
+
+   }
+   .termek h2, .termek h3{
+       text-align: center;
+
+   }
+   .termek button{
+       width: 100%;
+       background-color: black;
+       border: none;
+       color: white;
+       height: 50px;
+
+   }
+    
